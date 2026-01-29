@@ -58,7 +58,7 @@ The dashboard helps stakeholders understand **sales trends, profitability, custo
 ## 👤 Author
 **Ankush Kumar**  
 📧 Email: ankushkr804@gmail.com  
-🔗 GitHub: https://github.com/ankushkr13  
+🔗 GitHub: https://github.com/ankushkr1211
 
 ---
 
