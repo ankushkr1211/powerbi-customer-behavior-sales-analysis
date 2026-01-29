@@ -44,7 +44,7 @@ The dashboard helps stakeholders understand **sales trends, profitability, custo
 ---
 
 ## 📷 Dashboard Preview
-_Add dashboard screenshot here_
+![Dashboard Preview](customer_sales_dashboard_github.png)
 
 ---
 
